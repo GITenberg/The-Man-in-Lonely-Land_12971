@@ -1,0 +1,25 @@
+_repo: The-Man-in-Lonely-Land_12971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bosher, Kate Langley
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '1932'
+    url: http://www.gutenberg.org/2009/agents/1932
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+title: The Man in Lonely Land
+url: http://www.gutenberg.org/ebooks/12971
